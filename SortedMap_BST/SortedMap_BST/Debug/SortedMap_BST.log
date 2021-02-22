@@ -1,0 +1,6 @@
+﻿  SMIterator.cpp
+D:\Z.University___\Sem2__\Data Structure & Algorithms\Lab5\SortedMap_BST\SortedMap_BST\SortedMap.h(19,2): warning C4091: 'typedef ': ignored on left of 'Node' when no variable is declared
+  SortedMap.cpp
+D:\Z.University___\Sem2__\Data Structure & Algorithms\Lab5\SortedMap_BST\SortedMap_BST\SortedMap.h(19,2): warning C4091: 'typedef ': ignored on left of 'Node' when no variable is declared
+  Generating Code...
+  SortedMap_BST.vcxproj -> D:\Z.University___\Sem2__\Data Structure & Algorithms\Lab5\SortedMap_BST\Debug\SortedMap_BST.exe

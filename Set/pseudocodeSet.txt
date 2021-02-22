@@ -1,0 +1,13 @@
+Domain: It = {iterator of a set with elements of type TElem}
+
+preconditions: It - is an iterator of a set;
+
+WC = AC = BC = O(1)
+
+pseudocode:
+
+	if valid() = false then
+		@throw exception ""
+	End_if
+	
+	currentIndex-- 
